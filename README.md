@@ -6,3 +6,6 @@ Use this repository to store the newest 2015 apps running on Bluemix, will updat
 
 1. A Trade application running on Bluemix, bind with SQLDB, AutoScaling and Monitor and Analitics
 There is a Chinese Blog that you can follow to run this application, the link is: http://blog.csdn.net/acostry/article/details/42107551
+
+2. 《详解 IBM Bluemix 端到端开发体验》
+http://blog.csdn.net/acostry/article/details/42107551
